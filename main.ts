@@ -1,0 +1,5 @@
+xgo.execution_action(xgo.action_enum.Stand)
+xgo.move_xgo(xgo.direction_enum.Forward, 75)
+xgo.rotate_angle(xgo.rotate_direction_enum.turn_right, 74)
+xgo.move_xgo(xgo.direction_enum.Forward, 75)
+xgo.leg_lift_continue(0, 0)
